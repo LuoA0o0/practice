@@ -31,6 +31,9 @@ public class Practice1 {
             }
         } catch (IOException e) {
             e.printStackTrace();
+
+
+
         }
 
     }
