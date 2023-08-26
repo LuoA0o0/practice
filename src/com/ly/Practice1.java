@@ -33,7 +33,6 @@ public class Practice1 {
             e.printStackTrace();
 //        asdaasd
 
-
         }
 
     }
