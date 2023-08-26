@@ -19,6 +19,7 @@ public class Practice1 {
         String path2 = "D:\\Study\\Project\\practice";
 
         File file2 = new File(path2);
+
         File file3 = new File(file2,fileName);
 
         try {
